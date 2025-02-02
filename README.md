@@ -1,6 +1,7 @@
 ﻿# Backend-Assignment
 
 # Multilingual FAQ API
+## AI is used for writing the better commit text, comments and also helped in writing the README.md file.
 
 ## Overview
 This project is a **Multilingual FAQ API** built using **Django and Django REST Framework (DRF)**. It allows users to retrieve frequently asked questions (FAQs) in multiple languages, leveraging **Google Translate API** and caching for efficiency. The system also integrates **django-ckeditor** for a rich text editing experience in the Django admin panel.
